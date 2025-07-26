@@ -1,0 +1,443 @@
+{
+    "waterbodies": [
+        {
+            "name": "оз. Комариное",
+            "fish": [
+                {
+                    "name": "Ротан",
+                    "trophyWeight": 400,
+                    "rareTrophyWeight": 700
+                },
+                {
+                    "name": "Карась золотой",
+                    "trophyWeight": 1800,
+                    "rareTrophyWeight": 2900
+                },
+                {
+                    "name": "Ерш",
+                    "trophyWeight": 140,
+                    "rareTrophyWeight": 220
+                },
+                {
+                    "name": "Лягушка",
+                    "trophyWeight": 190,
+                    "rareTrophyWeight": 250
+                },
+                {
+                    "name": "Уклейка",
+                    "trophyWeight": 110,
+                    "rareTrophyWeight": 160
+                },
+                {
+                    "name": "Плотва обыкновенна",
+                    "trophyWeight": 1200,
+                    "rareTrophyWeight": 2000
+                },
+                {
+                    "name": "Вьюн",
+                    "trophyWeight": 200,
+                    "rareTrophyWeight": 250
+                },
+                {
+                    "name": "Карась серебряный",
+                    "trophyWeight": 1900,
+                    "rareTrophyWeight": 3200
+                },
+                {
+                    "name": "Окунь",
+                    "trophyWeight": 1600,
+                    "rareTrophyWeight": 2700
+                },
+                {
+                    "name": "Линь",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 6000
+                },
+                {
+                    "name": "Язь",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 6500
+                },
+                {
+                    "name": "Линь золотистый",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 6000
+                },
+                {
+                    "name": "Густера",
+                    "trophyWeight": 800,
+                    "rareTrophyWeight": 1200
+                },
+                {
+                    "name": "Лещ",
+                    "trophyWeight": 4400,
+                    "rareTrophyWeight": 7000
+                },
+                {
+                    "name": "Голавль",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 7000
+                },
+                {
+                    "name": "Карп чешуйчатый",
+                    "trophyWeight": 20000,
+                    "rareTrophyWeight": 30000
+                },
+                {
+                    "name": "Карп Кои Мидори-гои",
+                    "trophyWeight": 25000,
+                    "rareTrophyWeight": 32000
+                },
+                {
+                    "name": "Карп зеркальный",
+                    "trophyWeight": 25000,
+                    "rareTrophyWeight": 40000
+                },
+                {
+                    "name": "Щука обыкновенная",
+                    "trophyWeight": 12000,
+                    "rareTrophyWeight": 20000
+                },
+                {
+                    "name": "Сом",
+                    "trophyWeight": 100000,
+                    "rareTrophyWeight": 200000
+                }
+            ]
+        },
+        {
+            "name": "оз. Лосиное",
+            "fish": [
+                {
+                    "name": "Вармоус",
+                    "trophyWeight": 650,
+                    "rareTrophyWeight": 850
+                },
+                {
+                    "name": "Доросома северная",
+                    "trophyWeight": 1100,
+                    "rareTrophyWeight": 1600
+                },
+                {
+                    "name": "Краппи белый",
+                    "trophyWeight": 1350,
+                    "rareTrophyWeight": 2000
+                },
+                {
+                    "name": "Солнечник синежаберный",
+                    "trophyWeight": 1200,
+                    "rareTrophyWeight": 1700
+                },
+                {
+                    "name": "Окунь белый",
+                    "trophyWeight": 1750,
+                    "rareTrophyWeight": 2500
+                },
+                {
+                    "name": "Солнечник красноухий",
+                    "trophyWeight": 1700,
+                    "rareTrophyWeight": 2300
+                },
+                {
+                    "name": "Краппи чёрный",
+                    "trophyWeight": 1600,
+                    "rareTrophyWeight": 2200
+                },
+                {
+                    "name": "Окунь большеротый",
+                    "trophyWeight": 6000,
+                    "rareTrophyWeight": 7500
+                },
+                {
+                    "name": "Сомик канальный",
+                    "trophyWeight": 14000,
+                    "rareTrophyWeight": 20000
+                }, {
+                    "name": "Окунь малоротый",
+                    "trophyWeight": 3000,
+                    "rareTrophyWeight": 4000
+                },
+                {
+                    "name": "Окунь пятнистый",
+                    "trophyWeight": 3000,
+                    "rareTrophyWeight": 4500
+                },
+                {
+                    "name": "Горбыль речной",
+                    "trophyWeight": 13500,
+                    "rareTrophyWeight": 19000
+                },
+                {
+                    "name": "Сомик оливковый",
+                    "trophyWeight": 30000,
+                    "rareTrophyWeight": 45000
+                }, {
+                    "name": "Окунь павлиний",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 5500
+                },
+                {
+                    "name": "Судак светлопёрый",
+                    "trophyWeight": 7000,
+                    "rareTrophyWeight": 9000
+                },
+                {
+                    "name": "Лаврак полосатый гибридный",
+                    "trophyWeight": 8000,
+                    "rareTrophyWeight": 10000
+                },
+                {
+                    "name": "Лаврак полосатый",
+                    "trophyWeight": 30000,
+                    "rareTrophyWeight": 45000
+                }, {
+                    "name": "Панцирник пятнистый",
+                    "trophyWeight": 3000,
+                    "rareTrophyWeight": 9999999
+                },
+                {
+                    "name": "Щука панцирная",
+                    "trophyWeight": 9999999,
+                    "rareTrophyWeight": 9999999
+                }
+            ]
+        },
+        {
+            "name": "р. Вьюнок",
+            "fish": [
+                {
+                    "name": "Пескарь обыкновенный",
+                    "trophyWeight": 100,
+                    "rareTrophyWeight": 160
+                },
+                {
+                    "name": "Елец",
+                    "trophyWeight": 250,
+                    "rareTrophyWeight": 390
+                },
+                {
+                    "name": "Ерш-носарь",
+                    "trophyWeight": 250,
+                    "rareTrophyWeight": 350
+                },
+                {
+                    "name": "Белоглазка",
+                    "trophyWeight": 600,
+                    "rareTrophyWeight": 900
+                },
+                {
+                    "name": "Перловица",
+                    "trophyWeight": 190,
+                    "rareTrophyWeight": 280
+                },
+                {
+                    "name": "Дрейссена речная",
+                    "trophyWeight": 150,
+                    "rareTrophyWeight": 210
+                },
+                {
+                    "name": "Уклейка",
+                    "trophyWeight": 110,
+                    "rareTrophyWeight": 160
+                },
+                {
+                    "name": "Подуст",
+                    "trophyWeight": 800,
+                    "rareTrophyWeight": 1200
+                },
+                {
+                    "name": "Рак речной",
+                    "trophyWeight": 200,
+                    "rareTrophyWeight": 330
+                },
+                {
+                    "name": "Синец",
+                    "trophyWeight": 750,
+                    "rareTrophyWeight": 1100
+                },
+                {
+                    "name": "Густера",
+                    "trophyWeight": 800,
+                    "rareTrophyWeight": 1200
+                },
+                {
+                    "name": "Голавль",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 7000
+                },
+                {
+                    "name": "Берш",
+                    "trophyWeight": 1400,
+                    "rareTrophyWeight": 2200
+                }, {
+                    "name": "Окунь",
+                    "trophyWeight": 1600,
+                    "rareTrophyWeight": 2700
+                },
+                {
+                    "name": "Лягушка",
+                    "trophyWeight": 190,
+                    "rareTrophyWeight": 250
+                },
+                {
+                    "name": "Ерш",
+                    "trophyWeight": 140,
+                    "rareTrophyWeight": 220
+                },
+                {
+                    "name": "Жерех",
+                    "trophyWeight": 8000,
+                    "rareTrophyWeight": 13000
+                }, {
+                    "name": "Лещ",
+                    "trophyWeight": 4400,
+                    "rareTrophyWeight": 7000
+                },
+                {
+                    "name": "Язь",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 6500
+                },
+                {
+                    "name": "Карась серебряный",
+                    "trophyWeight": 1900,
+                    "rareTrophyWeight": 3200
+                },
+                {
+                    "name": "Плотва обыкновенная",
+                    "trophyWeight": 1200,
+                    "rareTrophyWeight": 2000
+                },
+                {
+                    "name": "Ротан",
+                    "trophyWeight": 400,
+                    "rareTrophyWeight": 700
+                },
+                {
+                    "name": "Линь",
+                    "trophyWeight": 4000,
+                    "rareTrophyWeight": 6000
+                },
+                {
+                    "name": "Карась золотой",
+                    "trophyWeight": 1800,
+                    "rareTrophyWeight": 2900
+                },
+                {
+                    "name": "Налим",
+                    "trophyWeight": 9000,
+                    "rareTrophyWeight": 14000
+                },
+                {
+                    "name": "Щука обыкновенная",
+                    "trophyWeight": 12000,
+                    "rareTrophyWeight": 20000
+                },
+                {
+                    "name": "Карп чешуйчатый",
+                    "trophyWeight": 20000,
+                    "rareTrophyWeight": 30000
+                }, {
+                    "name": "Сом",
+                    "trophyWeight": 100000,
+                    "rareTrophyWeight": 200000
+                },
+                {
+                    "name": "Судак",
+                    "trophyWeight": 8000,
+                    "rareTrophyWeight": 12000
+                }
+            ]
+        },
+        {
+            "name": "оз. Старый Острог",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Белая",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "оз. Куори",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "оз. Медвежье",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Волхов",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Северский Донец",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Сура",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "Ладожское оз.",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "оз. Янтарное",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "Ладожский архипелаг",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Ахтуба",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "оз. Медное",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Нижняя Тунгуска",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "р. Яма",
+            "fish": [
+                
+            ]
+        },
+        {
+            "name": "Норвежское море",
+            "fish": [
+                
+            ]
+        }
+    ]
+}
