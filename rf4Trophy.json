@@ -4,8 +4,8 @@
             "fish": [
                 {
                     "name": "Ротан",
-                    "trophyWeight": "400",
-                    "rareTrophyWeight": "700"
+                    "trophyWeight": 400,
+                    "rareTrophyWeight": 700
                 },
                 {
                     "name": "Карась золотой",
